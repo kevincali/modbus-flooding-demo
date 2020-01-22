@@ -1,0 +1,17 @@
+.navbar-brand {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height:114px;
+    left: 0;
+}
+
+.panel-body {
+    min-height: 74px;
+}
+
+#iframe-output {
+    border: none;
+    width: 100%;
+    height: 291px;
+}
